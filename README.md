@@ -25,7 +25,7 @@ The goal of this repository is to build data structures from scratch and underst
 |---|---|
 | Dynamic Array / Vector | ✅ Completed |
 | Stack | ✅ Completed |
-| Queue | 🔜 Coming Soon |
+| Queue | ✅ Completed |
 | Circular Queue | 🔜 Coming Soon |
 | Linked List | 🔜 Coming Soon |
 | Doubly Linked List | 🔜 Coming Soon |
