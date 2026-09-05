@@ -12,7 +12,7 @@ MyVector<T>::MyVector()
 template <typename T>
 MyVector<T>::~MyVector()
 {
-    // memory freed
+    // memory freed>
     delete[] data;
 }
 
